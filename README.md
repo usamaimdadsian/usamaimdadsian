@@ -74,6 +74,7 @@ I'm always open to discussions and collaborations. You can find my professesiona
 </div>
 
 <h2 align="left" class="section-heading">👾 Environments</h2>
+<p>Here are some of the eniroment technologies I regularly work with to build, experiment, and deploy intelligent systems.</p>
 <div align="center">
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?style=for-the-badge&logo=vsc&logoColor=white" alt="vscode"/>
   <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim"/>
@@ -82,7 +83,7 @@ I'm always open to discussions and collaborations. You can find my professesiona
 </div>
 
 <div align="center">
-<h2 align="center" class="section-heading"> 💻 Github Stats</h2>
+<h2 align="left" class="section-heading"> 💻 Github Stats</h2>
 <p>Peek into my GitHub stats to see how I juggle code, coffee, and collaborations! Dive in to check out the milestones of my digital journey!</p>
  <table align="center" width="100%" height="100%" >
     <tr>
