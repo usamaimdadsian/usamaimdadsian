@@ -1,6 +1,6 @@
 <div align="center">
     <h1>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=600&lines=Hi👋, I'm Usama Imdad" alt="Hi👋, I'm Usama Imdad"/>
+        <img src="./header.svg" alt="Hi👋, I'm Usama Imdad"/>
     </h1>
 </div>
 <div align="justify">
@@ -18,8 +18,8 @@ I'm always open to discussions and collaborations. You can find my professesiona
 
 <p align="center">
 <a href="https://twitter.com/usamaimdadsian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="usamaimdadsian" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@usamaimdad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@usamaimdad" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/usama-imdad/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/usama-imdad/" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@UsamaImdadSian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@usamaimdad" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/usama-imdad/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/usama-imdad/" height="30" width="40" /></a>
 </p>
 </div>
 <div align="center">
