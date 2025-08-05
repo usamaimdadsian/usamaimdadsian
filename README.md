@@ -81,6 +81,15 @@ I'm always open to discussions and collaborations. You can find my professesiona
   <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=fff" alt="Arch Linux"/>
   
 </div>
+<br/>
+<div align="left">
+  <p>I use following repositories for my setup:</p>
+  <ul>
+    <li>Arch linux post installation auto setup <a href="https://github.com/usamaimdadsian/arch_auto_setup/" target="_blank">repository</a> </li>
+    <li>Neovim configuration <a href="https://github.com/usamaimdadsian/nvim-nvchad-custom" target="_blank">repository</a></li>
+    <li>Linux dotfiles <a href="https://github.com/usamaimdadsian/dotfiles" target="_blank">repository</a></li>
+  </ul>
+</div>
 
 <div align="center">
 <h2 align="left" class="section-heading"> 💻 Github Stats</h2>
